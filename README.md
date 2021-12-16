@@ -1,4 +1,4 @@
-# Andon_EDGE
+# Andon EDGE
 ## Yêu cầu môi trường cài đặt:
 ### Thiết bị
 1. Raspberry 4
